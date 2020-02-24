@@ -25,6 +25,7 @@
 - All-in is used to prepare for backward elimination 
 
 ### 2. Backward Elimination 
+- This is the fastest out of all methods 
 - Step 1: Select significance level to stay in the model (e.g. 0.05)
 - Step 2: Fit the full model with all possible predictors (all variables)
 - Step 3: Consider the predictor with the **highest** P-value. If P > SL, go to STEP 4. otherwisde go to finish 
