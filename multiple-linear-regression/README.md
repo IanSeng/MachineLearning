@@ -13,9 +13,11 @@
 
 ## Bulding a model 
 - Why can't we have all variables in our model? 
+
 `We need to clean out the model that is reliable & we need to be able to explain the variables are how is certain variables predict the behavior(dependent variable)`
 
 - Stepwise Regression 
+
 `Backward Elimination , Forward Selection, and Bidirectional Elimination. Bidirectional Elimination is the most general approach of Stepwise regression`
 
 ### 1. All-in 
