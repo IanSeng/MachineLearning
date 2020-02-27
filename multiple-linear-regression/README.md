@@ -1,5 +1,16 @@
 # multiple-linear-regression 
 
+## Note for code update 
+1. 
+old 
+```
+from sklearn.cross_validation import train_test_split  
+```
+new 
+```
+from sklearn.model_selection import train_test_split
+```
+
 ## Assumption of a linear Regression 
 1. Linearity 
 2. Homoscedasticity 
