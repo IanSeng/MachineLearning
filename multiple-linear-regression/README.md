@@ -10,6 +10,10 @@ new
 ```
 from sklearn.model_selection import train_test_split
 ```
+2. We need to encode categorical variables 
+
+## Notes
+1. to avoid dummy variable trap for categorical values, we need to make sure that we remove one variable. For instance, we have X,Y,Z and city X = 1 0 0, Y = 0 1 0, Z = 0 0 1, we will remove X, so X = 0 0, Y = 1 0, Z = 0 1
 
 ## Assumption of a linear Regression 
 1. Linearity 
