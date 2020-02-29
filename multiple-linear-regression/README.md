@@ -72,5 +72,4 @@ from sklearn.model_selection import train_test_split
 - If we have 10 columns it is equivalent to 1023 models 
 
 
-
 Credit: https://www.superdatascience.com/pages/machine-learning
