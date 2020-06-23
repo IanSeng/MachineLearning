@@ -20,3 +20,7 @@
 - Manipulating & comparing arrays 
 - Sorting arrays 
 - Use cases
+
+## Resources 
+- Stackoverflow 
+- SciPy.org
