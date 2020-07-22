@@ -1,5 +1,5 @@
 # Scikitlearn (sklearn)
-A python machine learnin library that helps us to build a model that patter the data and make prediction. 
+A python machine learnin library that helps us to build a model that uses the pattern of the data and make prediction. 
 
 ## Why Scikit-Learn ?
 - Built on NumPy and Matplotlib 
@@ -13,4 +13,4 @@ A python machine learnin library that helps us to build a model that patter the 
 3. Fit the model to the data and make a prediction 
 4. Evaluate the model
 5. Improve through experimentation 
-6. Save and reload your trained model 
+6. Save and reload your trained model  
