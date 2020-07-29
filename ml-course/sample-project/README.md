@@ -20,6 +20,10 @@ conda env export --prefix env/ > environment.yml
 conda env create --file environment.yml --name abc
 ```
 
+- To create an env with requirements in yaml
+```
+conda env create --prefix ./env --f ../environment.yml
+```
 
 ## Set up Conda 
 - To activate conda 
